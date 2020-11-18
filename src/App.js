@@ -14,6 +14,17 @@ const GlobalStyle = createGlobalStyle`
 function App() {
   const [hatches, setHatches] = useState(createCalendar());
 
+  useEffect(() => {
+    const calendar = localStorage.calendar
+      ? JSON.parse(localStorage.calendar)
+      : createCalendar();
+
+
+    setHatches(calendar); 
+  }, [] );
+
+  useEffect
+
   const handleFlipHatch = id => {
     const updatedHatches = hatches.map(hatch =>
         hatch.id === id ? {...hatch, open: !hatch.open} : hatch
