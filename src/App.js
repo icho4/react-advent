@@ -15,7 +15,10 @@ function App() {
   const [hatches, setHatches] = useState(createCalendar());
 
   const handleFlipHatch = id => {
-    console.log(id)
+    const updatedHatches = hatches.map(hatch =>
+        hatch.id === id ? {...hatch, open: !hatch.open} : hatch
+      );
+      setHatches(updatedHatches);
   }
 
   return (
