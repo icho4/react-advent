@@ -12,7 +12,7 @@ const GlobalStyle = createGlobalStyle`
 `
 
 function App() {
-  const [hatches, setHatches] = useState(createCalendar());
+  const [hatches, setHatches] = useState([]);
 
   useEffect(() => {
     const calendar = localStorage.calendar
@@ -23,7 +23,10 @@ function App() {
     setHatches(calendar); 
   }, [] );
 
-  useEffect
+  //stores calendar effects in local storage
+  useEffect(() => {
+    hatches.length && localStorage.setItem('calendar', JSON.stringify(hatches))
+  }, [hatches]); 
 
   const handleFlipHatch = id => {
     const updatedHatches = hatches.map(hatch =>
