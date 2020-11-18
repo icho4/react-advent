@@ -1,7 +1,8 @@
 import React from 'react'
+import {StyledHatch} from './HatchStyles';
 
 const Hatch = ({hatchData: {id, nr, text, img, open}, handleClick}) => (
-    <>
+    <StyledHatch background={img}>
 
         <div className={open ? "front open" : "front"}>
             <p>{nr}</p>
@@ -11,7 +12,7 @@ const Hatch = ({hatchData: {id, nr, text, img, open}, handleClick}) => (
             <p>{text}</p>
         </div>
 
-    </>
+    </StyledHatch>
 
 
 )

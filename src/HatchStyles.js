@@ -67,4 +67,4 @@ export const StyledHatch = styled.div`
         border: 1px solid #fff;
         box-sizing: border-box;
     }
-`
+`;
