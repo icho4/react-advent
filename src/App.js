@@ -6,7 +6,9 @@ import Hatch from './Hatch';
 
 const GlobalStyle = createGlobalStyle`
   body {
-    background: center / cover url('./img/calendar_backdrop.jpg');
+    background: url('./img/calendar_backdrop1.png');
+    background-size: 110%;
+    background-color: rgb(0,29,36);
     margin: 0;
   }
 `
