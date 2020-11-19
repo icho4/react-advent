@@ -17,7 +17,7 @@ export const hatchArray = [
     nr: 1,
     img: "./img/1.jpg",
     text:
-      "Can I have your picture so I can show Santa what I want for Christmas?",
+      "",
     open: false
   },
   {
@@ -25,7 +25,7 @@ export const hatchArray = [
     nr: 2,
     img: "./img/2.jpg",
     text:
-      "What do you call people who are afraid of Santa Claus? Claustrophobic",
+      "",
     open: false
   },
   {
@@ -33,7 +33,7 @@ export const hatchArray = [
     nr: 3,
     img: "./img/3.jpg",
     text:
-      "What is the best Christmas present ever? A broken drum - you can't beat it!",
+      "",
     open: false
   },
   {
@@ -41,7 +41,7 @@ export const hatchArray = [
     nr: 4,
     img: "./img/4.jpg",
     text:
-      "How do you know when Santa's in the room? You can sense his presents.",
+      "",
     open: false
   },
   {
@@ -49,7 +49,7 @@ export const hatchArray = [
     nr: 5,
     img: "./img/5.jpg",
     text:
-      "STRESSED is just DESSERTS spelled backward.",
+      "",
     open: false
   },
   {
@@ -57,7 +57,7 @@ export const hatchArray = [
     nr: 6,
     img: "./img/6.jpg",
     text:
-      "What is the difference between snowmen and snowwomen? Snowballs.",
+      "",
     open: false
   },
   {
@@ -65,7 +65,7 @@ export const hatchArray = [
     nr: 7,
     img: "./img/7.jpg",
     text:
-      "What nationality is Santa Claus? North Polish",
+      "",
     open: false
   },
   {
@@ -73,7 +73,7 @@ export const hatchArray = [
     nr: 8,
     img: "./img/8.jpg",
     text:
-      "What kind of motorbike does Santa ride? A Holly Davidson!",
+      "",
     open: false
   },
   {
@@ -81,7 +81,7 @@ export const hatchArray = [
     nr: 9,
     img: "./img/9.jpg",
     text:
-      "Who is never hungry at Christmas? The turkey - he's always stuffed!",
+      "",
     open: false
   },
   {
