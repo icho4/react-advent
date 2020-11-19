@@ -89,7 +89,7 @@ export const hatchArray = [
     nr: 10,
     img: "./img/10.jpg",
     text:
-      "When you stop believing in Santa Claus is when you start getting clothes for Christmas!",
+      "",
     open: false
   },
   {
@@ -97,7 +97,7 @@ export const hatchArray = [
     nr: 11,
     img: "./img/11.jpg",
     text:
-      "What goes 'oh oh oh'? Santa walking backwards.",
+      "",
     open: false
   },
   {
@@ -105,7 +105,7 @@ export const hatchArray = [
     nr: 12,
     img: "./img/12.jpg",
     text:
-      "According to my kids' Christmas lists, they think this parenting gig pays pretty well.",
+      "",
     open: false
   },
   {
@@ -113,7 +113,7 @@ export const hatchArray = [
     nr: 13,
     img: "./img/13.jpg",
     text:
-      "Which of Santa's reindeers needs to mind his manners the most? 'Rude'olph",
+      "",
     open: false
   },
   {
@@ -121,7 +121,7 @@ export const hatchArray = [
     nr: 14,
     img: "./img/14.jpg",
     text:
-      "What will fall on the lawn first? An autumn leaf or a Christmas catalog?",
+      "",
     open: false
   },
   {
@@ -129,7 +129,7 @@ export const hatchArray = [
     nr: 15,
     img: "./img/15.jpg",
     text:
-      "What do elves learn in school? The Elf-abet!",
+      "",
     open: false
   },
   {
@@ -137,7 +137,7 @@ export const hatchArray = [
     nr: 16,
     img: "./img/16.jpg",
     text:
-      "How do you scare a snowman? You get a hairdryer!",
+      "",
     open: false
   },
   {
@@ -145,7 +145,7 @@ export const hatchArray = [
     nr: 17,
     img: "./img/17.jpg",
     text:
-      "The main thing I want this holiday season is for someone to wake me when it's over.",
+      "",
     open: false
   },
   {
@@ -153,7 +153,7 @@ export const hatchArray = [
     nr: 18,
     img: "./img/18.jpg",
     text:
-      "Remember, children. The best way to get a puppy for Christmas is to beg for a baby brother.",
+      "",
     open: false
   },
   {
@@ -161,7 +161,7 @@ export const hatchArray = [
     nr: 19,
     img: "./img/19.jpg",
     text:
-      "I bought my son a fridge for Christmas. – I can't wait to see his face light up when he opens it.",
+      "",
     open: false
   },
   {
@@ -169,7 +169,7 @@ export const hatchArray = [
     nr: 20,
     img: "./img/20.jpg",
     text:
-      "Santa's elves are just a bunch of subordinate Clauses.",
+      "",
     open: false
   },
   {
@@ -177,7 +177,7 @@ export const hatchArray = [
     nr: 21,
     img: "./img/21.jpg",
     text:
-      "What is the best evidence that Microsoft has a monopoly? Santa Claus had to switch from Chimneys to Windows.",
+      "",
     open: false
   },
   {
@@ -185,7 +185,7 @@ export const hatchArray = [
     nr: 22,
     img: "./img/22.jpg",
     text:
-      "Why do programmers always mix up Halloween and Christmas? Because 31 OCT = 25 DEC.",
+      "",
     open: false
   },
   {
@@ -193,7 +193,7 @@ export const hatchArray = [
     nr: 23,
     img: "./img/23.jpg",
     text:
-      "What does Santa suffer from if he gets stuck in a chimney? Claustrophobia!",
+      "",
     open: false
   },
   {
@@ -201,7 +201,7 @@ export const hatchArray = [
     nr: 24,
     img: "./img/24.jpg",
     text:
-      "What's red and white, red and white, red and white? Sant rolling off your roof.",
+      "",
     open: false
   },
 ];
