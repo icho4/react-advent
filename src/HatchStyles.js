@@ -27,7 +27,7 @@ export const StyledHatch = styled.div`
             height: 60px;
             border-radius: 50%;
             //background: rgba(255, 53, 58, 1);
-            background: rgba(13, 96, 60, 1); 
+            background: rgba(13, 96, 60, 0.7); 
             font-weight: 700;
             font-size: 4rem;
         }
