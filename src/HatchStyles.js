@@ -12,18 +12,22 @@ export const StyledHatch = styled.div`
         top: 0;
         left: 0;
         z-index: 2;
+        border-width: 0.15rem;
 
         p {
             display: flex;
             align-items: center;
             justify-content: center;
             font-family: "Dancing Script", cursive;
-            color: #ffffff;
+            color: #fff;
+            text-shadow: 3px 3px #ce3030;
+            //-webkit-text-stroke: 2px #ff0000;
             padding: 20px;
-            width: 50%;
-            height: 50%;
+            width: 60px;
+            height: 60px;
             border-radius: 50%;
-            background: rgba(0,0,0,0.7);
+            //background: rgba(255, 53, 58, 1);
+            background: rgba(13, 96, 60, 1); 
             font-weight: 700;
             font-size: 4rem;
         }

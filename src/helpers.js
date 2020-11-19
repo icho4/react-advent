@@ -11,7 +11,6 @@ const shuffle = a => {
   return a;
 };
 
-// Bad one-liners from https://onelinefun.com/christmas
 export const hatchArray = [
   {
     id: "hatch-1",

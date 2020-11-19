@@ -14,7 +14,6 @@ const Hatch = ({hatchData: {id, nr, text, img, open}, handleClick}) => (
 
     </StyledHatch>
 
-
 )
 
 export default Hatch;
