@@ -51,7 +51,7 @@ export const StyledHatch = styled.div`
         }
         
         p {
-            font-family: "Dancing Script", cursive;
+            font-family: 'Roboto Slab', serif;
             color: #fff;
             padding: 10px;
             font-size: 1.4rem;

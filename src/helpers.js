@@ -17,7 +17,7 @@ export const hatchArray = [
     nr: 1,
     img: "./img/1.jpg",
     text:
-      "",
+      "The first day! You get a chocolate!",
     open: false
   },
   {
@@ -25,7 +25,7 @@ export const hatchArray = [
     nr: 2,
     img: "./img/2.jpg",
     text:
-      "",
+      "toy",
     open: false
   },
   {
@@ -33,7 +33,7 @@ export const hatchArray = [
     nr: 3,
     img: "./img/3.jpg",
     text:
-      "",
+      "candy",
     open: false
   },
   {
@@ -41,7 +41,7 @@ export const hatchArray = [
     nr: 4,
     img: "./img/4.jpg",
     text:
-      "",
+      "standup joke",
     open: false
   },
   {
@@ -49,7 +49,7 @@ export const hatchArray = [
     nr: 5,
     img: "./img/5.jpg",
     text:
-      "",
+      "candy",
     open: false
   },
   {
@@ -57,7 +57,7 @@ export const hatchArray = [
     nr: 6,
     img: "./img/6.jpg",
     text:
-      "",
+      "toy",
     open: false
   },
   {
@@ -65,7 +65,7 @@ export const hatchArray = [
     nr: 7,
     img: "./img/7.jpg",
     text:
-      "",
+      "some sort of food",
     open: false
   },
   {
@@ -73,7 +73,7 @@ export const hatchArray = [
     nr: 8,
     img: "./img/8.jpg",
     text:
-      "",
+      "candy",
     open: false
   },
   {
@@ -81,7 +81,7 @@ export const hatchArray = [
     nr: 9,
     img: "./img/9.jpg",
     text:
-      "",
+      "joke",
     open: false
   },
   {
@@ -89,7 +89,7 @@ export const hatchArray = [
     nr: 10,
     img: "./img/10.jpg",
     text:
-      "",
+      "candy",
     open: false
   },
   {
@@ -97,7 +97,7 @@ export const hatchArray = [
     nr: 11,
     img: "./img/11.jpg",
     text:
-      "",
+      "toy",
     open: false
   },
   {
@@ -105,7 +105,7 @@ export const hatchArray = [
     nr: 12,
     img: "./img/12.jpg",
     text:
-      "",
+      "activity",
     open: false
   },
   {
@@ -113,7 +113,7 @@ export const hatchArray = [
     nr: 13,
     img: "./img/13.jpg",
     text:
-      "",
+      "luicia bake off",
     open: false
   },
   {
@@ -121,7 +121,7 @@ export const hatchArray = [
     nr: 14,
     img: "./img/14.jpg",
     text:
-      "",
+      "date night",
     open: false
   },
   {
@@ -129,7 +129,7 @@ export const hatchArray = [
     nr: 15,
     img: "./img/15.jpg",
     text:
-      "",
+      "candy",
     open: false
   },
   {
@@ -137,7 +137,7 @@ export const hatchArray = [
     nr: 16,
     img: "./img/16.jpg",
     text:
-      "",
+      "candy",
     open: false
   },
   {
@@ -145,7 +145,7 @@ export const hatchArray = [
     nr: 17,
     img: "./img/17.jpg",
     text:
-      "",
+      "toy",
     open: false
   },
   {
@@ -153,7 +153,7 @@ export const hatchArray = [
     nr: 18,
     img: "./img/18.jpg",
     text:
-      "",
+      "joke",
     open: false
   },
   {
@@ -161,7 +161,7 @@ export const hatchArray = [
     nr: 19,
     img: "./img/19.jpg",
     text:
-      "",
+      "candy",
     open: false
   },
   {
@@ -169,7 +169,7 @@ export const hatchArray = [
     nr: 20,
     img: "./img/20.jpg",
     text:
-      "",
+      "joke",
     open: false
   },
   {
@@ -177,7 +177,7 @@ export const hatchArray = [
     nr: 21,
     img: "./img/21.jpg",
     text:
-      "",
+      "candy",
     open: false
   },
   {
@@ -185,7 +185,7 @@ export const hatchArray = [
     nr: 22,
     img: "./img/22.jpg",
     text:
-      "",
+      "toy",
     open: false
   },
   {
@@ -193,7 +193,7 @@ export const hatchArray = [
     nr: 23,
     img: "./img/23.jpg",
     text:
-      "",
+      "dinner",
     open: false
   },
   {
@@ -201,7 +201,7 @@ export const hatchArray = [
     nr: 24,
     img: "./img/24.jpg",
     text:
-      "",
+      "toy, candy, joke",
     open: false
   },
 ];
